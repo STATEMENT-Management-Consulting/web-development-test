@@ -15,9 +15,9 @@ Booklet is an innovative and comprehensive platform that caters to the needs of 
 - Book Review, comments, like
   > Should so the rating
 - Number of users that have read the book
-  > This should be measured by the amount of time the user has spent on the reading (Precisely 2minutes maximum)
+  > This should be measured by the amount of time the user has spent on the reading (Precisely 2 minutes maximum)
 
-**FOCUS ON BUILIND THE MOST IMPORTANTS FEATURES, AND ENSURE THAT THEY ARE WORKING PERFECTLY. DO THE BEST YOU CAN**
+**FOCUS ON BUILIND THE MOST IMPORTANTS FEATURES, AND ENSURE THAT THEY ARE WORKING. DO THE BEST YOU CAN**
 
 ## Delivery
 
@@ -49,26 +49,11 @@ Booklet is an innovative and comprehensive platform that caters to the needs of 
 
 Describe possible plans for this project, improvements or changes that you would do to improve the quality of this project or for the development process.
    
-## Instructions
+   
+## Instructions extras
 
-Create a new branch following this points:
+Create a new public repository and share with us
 
-1. The initials of your first and last name. Ex: John Doe (jd)
-2. Followed by "/" 
-3. Followed by "feature"
-4. Followed by "/" 
-5. Followed by the name of the "nome da branch"
-then send a **PR** (Pull Request) to this repository.
-
-O processo de Pull Request funciona da seguinte maneira:
-The pull request process should work like this:
-
-1. Fork this repository (done clone directly!);
-2. Create your project on this fork;
-3. Commit & upload your work on YOUR FORK;
-4. Through Github's interface create your Pull Request;
-5. Leave your fork public so we can review your code;
-
-#  ATTENTION
-
-### **Don't push directly to this repository**
+#  Contacts
+Linkedin: Milca Raúl
+E-mail: milca.raul@statementmc.com
