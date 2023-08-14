@@ -17,6 +17,12 @@ Booklet is an innovative and comprehensive platform that caters to the needs of 
 - Number of users that have read the book
   > This should be measured by the amount of time the user has spent on the reading (Precisely 2minutes maximum)
 
+**FOCUS ON BUILIND THE MOST IMPORTANTS FEATURES, AND ENSURE THAT THEY ARE WORKING PERFECTLY. DO THE BEST YOU CAN**
+
+## Delivery
+
+- This project should be delivered within 5 days, the faster the better, but don't rush. We suggest you work a total of 5 days.  
+
 ## Techs
 
 ### Backend
@@ -31,3 +37,38 @@ Booklet is an innovative and comprehensive platform that caters to the needs of 
 - VueJs/NuxtJs
 - Vanilla
 - Angular
+
+> Don't need to worry about creating a very beautiful & elegant UI, focus on UX & business logic.
+> Find various inspiration on dribbble.com for the UI.
+
+## Experience
+- Describe your experience creating this project, which difficulties/challenges you've encountered.  
+  
+  
+## Future
+
+Describe possible plans for this project, improvements or changes that you would do to improve the quality of this project or for the development process.
+   
+## Instructions
+
+Create a new branch following this points:
+
+1. The initials of your first and last name. Ex: John Doe (jd)
+2. Followed by "/" 
+3. Followed by "feature"
+4. Followed by "/" 
+5. Followed by the name of the "nome da branch"
+then send a **PR** (Pull Request) to this repository.
+
+O processo de Pull Request funciona da seguinte maneira:
+The pull request process should work like this:
+
+1. Fork this repository (done clone directly!);
+2. Create your project on this fork;
+3. Commit & upload your work on YOUR FORK;
+4. Through Github's interface create your Pull Request;
+5. Leave your fork public so we can review your code;
+
+#  ATTENTION
+
+### **Don't push directly to this repository**
