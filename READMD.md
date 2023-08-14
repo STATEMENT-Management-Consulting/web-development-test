@@ -9,7 +9,6 @@ Booklet is an innovative and comprehensive platform that caters to the needs of 
 - Authors may be capable of adding, editing and deleting books.
 - Users should be able to read books.
 - Store owners should be capable of removing books from their store, and accepting books into their store.
-- Store owners should be capable of removing books from their store, and accepting books into their store.
 
 ### High Features
 
