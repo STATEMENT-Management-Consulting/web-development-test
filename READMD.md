@@ -1,60 +1,44 @@
-# STATEMENT WEB DEVELOPMENT TEST
+# TESTE DE DESENVOLVIMENTO WEB MIRANTES
+## Nome do Projeto: Booklet
+Booklet é uma plataforma inovadora e abrangente que atende às necessidades tanto de autores quanto de leitores, oferecendo uma experiência de compartilhamento de livros contínua e enriquecedora. Com um MVP poderoso e uma série de recursos avançados, o Booklet redefine como os livros são escritos, compartilhados e apreciados.
 
-## Project Name: Booklet
+## MVP
+Os autores devem ser capazes de adicionar, editar e excluir livros.
+Usuários devem poder ler livros.
+Proprietários de lojas devem ser capazes de remover livros de sua loja e aceitar livros em sua loja.
+## Recursos Avançados
+Avaliações de livros, comentários, curtidas
+Deve mostrar a classificação.
 
-Booklet is an innovative and comprehensive platform that caters to the needs of both authors and readers, offering a seamless and enriching book-sharing experience. With a powerful MVP and a suite of high-end features, Booklet redefines how books are authored, shared, and appreciated.
+Número de usuários que leram o livro
+Isso deve ser medido pelo tempo que o usuário passou lendo (precisamente 2 minutos no máximo).
 
-### MVP
+** FOQUE NA CONSTRUÇÃO DOS RECURSOS MAIS IMPORTANTES E GARANTA QUE ESTEJAM FUNCIONANDO. DÊ O MELHOR DE SI
 
-- Authors may be capable of adding, editing and deleting books.
-- Users should be able to read books.
-- Store owners should be capable of removing books from their store, and accepting books into their store.
+## Entrega
+Este projeto deve ser entregue dentro de 5 dias, quanto mais rápido melhor, mas não se apresse. Sugerimos que você trabalhe um total de 5 dias.
+## Tecnologias
+Backend
+NodeJs
+Express
+NestJs
+Frontend
+ReactJs/NextJS
+VueJs/NuxtJs
+Vanilla
+Angular
+Não é necessário se preocupar em criar uma interface muito bonita e elegante, foque na experiência do usuário e na lógica de negócios.
+Encontre diversas inspirações em dribbble.com para o design de interface do usuário.
 
-### High Features
+## Experiência
+Descreva sua experiência ao criar este projeto, quais dificuldades/desafios você encontrou.
+Futuro
+Descreva possíveis planos para este projeto, melhorias ou mudanças que você faria para aumentar a qualidade do projeto ou para o processo de desenvolvimento.
 
-- Book Review, comments, like
-  > Should so the rating
-- Number of users that have read the book
-  > This should be measured by the amount of time the user has spent on the reading (Precisely 2 minutes maximum)
+## Instruções Extras
+Crie um novo repositório público e compartilhe conosco.
 
-**FOCUS ON BUILIND THE MOST IMPORTANTS FEATURES, AND ENSURE THAT THEY ARE WORKING. DO THE BEST YOU CAN**
+## Contatos
+Linkedin: Aristides Chalo
 
-## Delivery
-
-- This project should be delivered within 5 days, the faster the better, but don't rush. We suggest you work a total of 5 days.  
-
-## Techs
-
-### Backend
-
-- NodeJs
-- Express
-- NestJs
-
-### Frontend
-
-- ReactJs/NextJS
-- VueJs/NuxtJs
-- Vanilla
-- Angular
-
-> Don't need to worry about creating a very beautiful & elegant UI, focus on UX & business logic.
-> Find various inspiration on dribbble.com for the UI.
-
-## Experience
-- Describe your experience creating this project, which difficulties/challenges you've encountered.  
-  
-  
-## Future
-
-Describe possible plans for this project, improvements or changes that you would do to improve the quality of this project or for the development process.
-   
-   
-## Instructions extras
-
-Create a new public repository and share with us
-
-#  Contacts
-Linkedin: Milca Raúl
-
-E-mail: milca.raul@statementmc.com
+# E-mail: aristides.chalo@statementmc.com
