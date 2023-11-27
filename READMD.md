@@ -18,15 +18,11 @@ Isso deve ser medido pelo tempo que o usuário passou lendo (precisamente 2 minu
 ## Entrega
 Este projeto deve ser entregue dentro de 5 dias, quanto mais rápido melhor, mas não se apresse. Sugerimos que você trabalhe um total de 5 dias.
 ## Tecnologias
-Backend
-NodeJs
-Express
-NestJs
 Frontend
 ReactJs/NextJS
 VueJs/NuxtJs
-Vanilla
-Angular
+Vanilla HTML & CSS
+
 Não é necessário se preocupar em criar uma interface muito bonita e elegante, foque na experiência do usuário e na lógica de negócios.
 Encontre diversas inspirações em dribbble.com para o design de interface do usuário.
 
